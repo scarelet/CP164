@@ -1,0 +1,112 @@
+"""
+-------------------------------------------------------
+Testing
+-------------------------------------------------------
+Author:  Navina Thayaruban
+ID:      169069359
+Email:   thay9359@mylaurier.ca
+Version: 2024-02-03
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+
+Name: sushi
+Origin: Japanese
+Vegetarian: None
+Calories: 180
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+
+-------------------------------------------------------
+t03
+
+Removing the element '20'...
+Removed value: None
+List after removal: [49, 15, 50, 60]
+
+Attempting to remove a non-existent element '40'...
+Result of removal: None
+List after failed removal attempt: [49, 15, 50, 60]
+
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t04 
+
+Index of the first occurrence of '20': -1
+The value found for '40': None
+Is '20' in the list? False
+The # of '10' in the list: 2
+Maximum value in the list: 30
+Minimum value in the list: 10
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t05
+
+Second item in the list: 20
+Setting second item to 25...
+Attempting to access index out of range:
+Error: Invalid index value
+Attempting to set index out of range:
+Error: Invalid index value
+
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t06
+
+After array_to_list:
+1 2 3 4 5 
+After list_to_array: [1, 2, 3, 4, 5]
+Empty after transfer: None
+
+-------------------------------------------------------
+
+-------------------------------------------------------
+t07
+Testing the List class...
+New list created. Is empty: None (Expected: True)
+Appended Name: Lasagna
+Origin: Italian
+Vegetarian: False
+Calories: 135 to list. New list: [<Food.Food object at 0x000002005D946B60>]
+Appended Name: Butter Chicken
+Origin: Indian
+Vegetarian: False
+Calories: 490 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>]
+Appended Name: Moo Goo Guy Pan
+Origin: Chinese
+Vegetarian: False
+Calories: 272 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>, <Food.Food object at 0x000002005D946AA0>]
+Appended Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: True
+Calories: 138 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>, <Food.Food object at 0x000002005D946AA0>, <Food.Food object at 0x000002005D946A40>]
+Appended Name: Spanakopita
+Origin: Greek
+Vegetarian: True
+Calories: 260 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>, <Food.Food object at 0x000002005D946AA0>, <Food.Food object at 0x000002005D946A40>, <Food.Food object at 0x000002005D9469E0>]
+Appended Name: Chirashi Don
+Origin: Japanese
+Vegetarian: False
+Calories: 600 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>, <Food.Food object at 0x000002005D946AA0>, <Food.Food object at 0x000002005D946A40>, <Food.Food object at 0x000002005D9469E0>, <Food.Food object at 0x000002005D946980>]
+Appended Name: Canuck Burger
+Origin: Canadian
+Vegetarian: False
+Calories: 7500 to list. New list: [<Food.Food object at 0x000002005D946B60>, <Food.Food object at 0x000002005D946B00>, <Food.Food object at 0x000002005D946AA0>, <Food.Food object at 0x000002005D946A40>, <Food.Food object at 0x000002005D9469E0>, <Food.Food object at 0x000002005D946980>, <Food.Food object at 0x000002005D946920>]
+Appended Name: Turducken
+Origin: American
+Vegetarian: False
+
+-------------------------------------------------------

@@ -1,0 +1,134 @@
+"""
+-------------------------------------------------------
+Lab/Assignment  Testing
+-------------------------------------------------------
+Author:  Navina Thayaruban
+ID:      169069359
+Email:   thay9359@mylaurier.ca
+Version: 2024-01-13
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+ 0 Canadian
+ 1 Chinese
+ 2 Indian
+ 3 Ethiopian
+ 4 Mexican
+ 5 Greek
+ 6 Japanese
+ 7 Italian
+ 8 American
+ 9 Scottish
+10 New Zealand
+11 English
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+Name: Banana
+Origin: Ethiopian
+Vegetarian: True
+Calories: 140
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+Name: lichl
+0. Canadian
+1. Chinese
+2. Indian
+3. Ethiopian
+4. Mexican
+5. Greek
+6. Japanese
+7. Italian
+8. American
+9. Scottish
+10. New Zealand
+11. English
+Enter the number corresponding to the origin: 3
+Vegetarian? (Y/N): N
+Calories: 200
+
+Name: lichl
+Origin: Ethiopian
+Vegetarian: False
+Calories: 200
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+Name: Spanakopita
+Origin: Greek
+Vegetarian: True
+Calories: 260
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+
+Name: Chicken Wings
+Origin: American
+Vegetarian: False
+Calories: 298
+
+-------------------------------------------------------
+t06
+-------------------------------------------------------
+Name: chips
+0. Canadian
+1. Chinese
+2. Indian
+3. Ethiopian
+4. Mexican
+5. Greek
+6. Japanese
+7. Italian
+8. American
+9. Scottish
+10. New Zealand
+11. English
+Enter the number corresponding to the origin: 3
+Vegetarian? (Y/N): Y
+Calories: 230
+Name: banana
+0. Canadian
+1. Chinese
+2. Indian
+3. Ethiopian
+4. Mexican
+5. Greek
+6. Japanese
+7. Italian
+8. American
+9. Scottish
+10. New Zealand
+11. English
+Enter the number corresponding to the origin: 11
+Vegetarian? (Y/N): N
+Calories: 200
+Name: 
+0. Canadian
+1. Chinese
+2. Indian
+3. Ethiopian
+4. Mexican
+5. Greek
+6. Japanese
+7. Italian
+8. American
+9. Scottish
+10. New Zealand
+11. English
+Enter the number corresponding to the origin: 2
+Vegetarian? (Y/N): Y
+Calories: 200
+-------------------------------------------------------
+t07
+Name: Vegetable Alicha
+Origin: Ethiopian
+Vegetarian: True
+Calories: 138
+
+Name: Spanakopita
+Origin: Greek
+Vegetarian: True
+Calories: 260
